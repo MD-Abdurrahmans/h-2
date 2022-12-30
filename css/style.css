@@ -1,0 +1,33 @@
+
+html,body{
+    overflow-x: hidden;
+}
+body{
+    background-color: #E5E5E5;
+}
+.navbar{
+    background-color: #2e2ea5;
+    color: white;
+}
+.navbar li a{
+    color: white;
+}
+
+.navbar-brand img{
+width: 30px;
+}
+
+
+main{
+    width: 870px;
+    padding: 20px;
+}
+.players{
+    padding:10px 0px ;
+}
+
+.cards{
+
+    width: 272px;
+    height: auto;
+}
